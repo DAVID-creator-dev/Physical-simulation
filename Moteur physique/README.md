@@ -1,11 +1,11 @@
-# 🧠 Simulation Physique 3D
+# Simulation Physique 3D
 
-Ce projet est une **simulation physique ** en 3D, développée autour des systèmes de collisions et de dynamique rigide.
+Ce projet est une **simulation physique** en 3D, développée autour des systèmes de collisions et de dynamique rigide.
 Il met en œuvre une chaîne complète de détection et de résolution physique : **broadphase → narrowphase → EPA → impulsions → friction et rotation angulaire**.
 
 ---
 
-## ⚙️ Fonctionnalités principales
+## Fonctionnalités principales
 
 * **Broadphase (AABB)** : détection rapide des paires potentielles de collisions.
 * **Narrowphase (GJK)** : calcul précis des intersections convexes.
@@ -20,7 +20,7 @@ Il met en œuvre une chaîne complète de détection et de résolution physique 
 
 ---
 
-## 🎮 Commandes du jeu / simulation
+## Commandes du jeu / simulation
 
 | Touche            | Action                                    |
 | ----------------- | ----------------------------------------- |
