@@ -3,6 +3,8 @@
 Ce projet est une **simulation physique** en 3D, développée autour des systèmes de collisions et de dynamique rigide.
 Il met en œuvre une chaîne complète de détection et de résolution physique : **broadphase → narrowphase → EPA → impulsions → friction et rotation angulaire**.
 
+![Demo](https://raw.githubusercontent.com/DAVID-creator-dev/Physical-simulation/main/Moteur%20physique/docs/images/demo.gif)
+
 ---
 
 ## Fonctionnalités principales
